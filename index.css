@@ -1,0 +1,16 @@
+body {
+    padding: 24px;
+    background-image: url('/milford-sound-nova-zelandia.jpg');
+    background-size: cover;
+}
+
+textarea {
+    resize: none;
+}
+
+.col {
+    background-color: aquamarine;
+    max-width: 70%;
+    padding: 16px;
+    border-radius: 0.2rem;
+}
